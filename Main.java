@@ -6,7 +6,7 @@ public class Main {
         Vehicle samochod = new Vehicle("Mazda", "Rx-7",
                 new Color("Oliwkowy"),
                 new Size("Samochód sportowy, mały"),
-                new Engine("Wankel"));
+                new Engine("Silnik Wankla"));
 
         System.out.println(samochod);
 		} }
